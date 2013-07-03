@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   s.summary  = 'A convenience function for dispatching blocks after a delay, with the ability to cancel them.'
   s.homepage = 'https://github.com/richardleggett/Dispatch-Cancel'
   s.author   = { 'Spaceman Labs' => 'mail@spacemanlabs.com' }
-  s.source   = { :git => 'https://github.com/richardleggett/Dispatch-Cancel.git' }
+  s.source   = { :git => 'git@github.com:richardleggett/Dispatch-Cancel.git' }
   s.platform = :ios
   s.source_files = 'dispatch-cancel'
   #s.resources = "Dispatch-Cancel/Dispatch-Cancel.bundle"
